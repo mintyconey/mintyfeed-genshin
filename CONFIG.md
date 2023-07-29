@@ -15,7 +15,7 @@ Genshin Impact
 
 > This is the description of the feed.
 
-Genshin Impact Feed: posts containing "#genshin" or "genshin"
+Genshin Impact Feed: posts containing "#genshin" or "genshin" or "#genshinimpact"
 
 # searchTerms
 
