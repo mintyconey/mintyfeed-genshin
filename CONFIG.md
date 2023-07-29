@@ -28,6 +28,7 @@ Genshin Impact Feed: posts containing "#genshin" or "genshin"
 - genshin
 - #genshin
 - #genshinimpact
+- genshinimpact
 
 # safeMode
 
