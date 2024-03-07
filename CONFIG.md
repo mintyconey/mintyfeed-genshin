@@ -15,8 +15,7 @@ Genshin Impact
 
 > This is the description of the feed.
 
-FEED IS CURRENTLY DOWN. PLEASE USE https://bsky.app/profile/did:plc:ns5psrla2fggj4f4uhzdg5oe/feed/aaabwn54ow5ri
-Genshin Impact Feed: posts containing "#genshin" or "genshin" or "#genshinimpact"
+FEED IS CURRENTLY DOWN. PLEASE USE https://bsky.app/profile/did:plc:ns5psrla2fggj4f4uhzdg5oe/feed/aaabwn54ow5ri (Genshin Impact Feed: posts containing "#genshin" or "genshin" or "#genshinimpact)"
 
 # searchTerms
 
