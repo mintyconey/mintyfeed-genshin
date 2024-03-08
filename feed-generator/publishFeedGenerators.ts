@@ -9,7 +9,7 @@ const publishAll = async () => {
   // login
   const handle = `${process.env.BLUESKY_HANDLE}`
   const password = `${process.env.BLUESKY_APP_PASSWORD}`
-  const agent = new AtpAgent({ service: 'https://bsky.social' })
+  const agent = new AtpAgent({ service: 'https://bsky.network' })
   await agent.login({ identifier: handle, password })
 
   let configs = require("./configs.json")
